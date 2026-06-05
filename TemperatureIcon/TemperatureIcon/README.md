@@ -4,6 +4,8 @@ App nativa minimalista para macOS que vive en la menu bar y muestra la temperatu
 
 ![App icon](../DesignAssets/AppIcon-Source.png)
 
+El proyecto Xcode se llama `TemperatureIcon`; la app instalada aparece como `CPU Temperature`.
+
 Formato actual:
 
 ```text

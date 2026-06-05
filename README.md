@@ -4,6 +4,8 @@ Minimal native macOS menu bar app that shows the current Apple Silicon CPU/SoC t
 
 ![App icon](TemperatureIcon/DesignAssets/AppIcon-Source.png)
 
+The Xcode project is named `TemperatureIcon`; the installed app appears as `CPU Temperature`.
+
 Current menu bar format:
 
 ```text

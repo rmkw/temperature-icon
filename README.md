@@ -118,4 +118,4 @@ Local review before sharing:
 
 ## License
 
-MIT
+MIT 🗿
